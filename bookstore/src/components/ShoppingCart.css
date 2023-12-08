@@ -1,0 +1,23 @@
+/* ShoppingCart.css */
+.shopping-cart {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 300px;
+}
+
+.shopping-cart div {
+  margin-bottom: 10px;
+}
+
+.shopping-cart button {
+  padding: 5px 10px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.shopping-cart button:hover {
+  background-color: #2980b9;
+}

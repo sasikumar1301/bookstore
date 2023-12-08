@@ -1,0 +1,13 @@
+/* BookDetails.css */
+.book-details {
+  text-align: center;
+}
+
+.book-details img {
+  max-width: 100%;
+  height: auto;
+}
+
+.book-details p {
+  margin: 10px 0;
+}

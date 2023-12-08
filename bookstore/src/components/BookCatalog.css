@@ -1,0 +1,35 @@
+/* BookCatalog.css */
+
+.book {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  text-decoration: none;
+}
+
+.book div {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+.book div img {
+  width: 100%;
+  height: auto;
+  max-height: 250px;
+}
+
+.book div h3 {
+  margin-top: 10px;
+  font-size: 18px;
+  
+}
+
+.book div p {
+  margin-top: 5px;
+}
+.book div a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Use the default text color */
+}

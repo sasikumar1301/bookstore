@@ -1,0 +1,22 @@
+
+.book-details {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .book-details img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .book-details h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .book-details p {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
